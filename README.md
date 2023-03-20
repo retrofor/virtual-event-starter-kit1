@@ -2,10 +2,11 @@
 
 # Virtual Events Starter Kit
 
-
 This virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
 
+
 - Multiple stages - with the ability to add multiple sessions on each stage
+
 - Each stage can be configured as -
   - An embedded YouTube stream OR
   - A live interactive audio-video experience powered by [100ms](https://www.100ms.live)
